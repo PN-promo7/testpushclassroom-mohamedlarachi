@@ -1,0 +1,15 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .container {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+.list-listfloat ul{
+  display: none;
+}
+
+
+
+
+}
